@@ -10,11 +10,12 @@ public class SignInSheet {
     }
 
     public SignInSheet(int Time) {
-        this.onTime = onTime;
+        this.SignInSheet = SignInSheet;
     }
 
-    public void getname(){
+    public void getName(){
         System.out.println("your name is " + name);
+    }
         
     public void getSignInSheet(){
          System.out.println("you have arrived at");
