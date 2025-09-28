@@ -6,7 +6,7 @@ public class SignInSheet {
     public int Time;
 
     public SignInSheet(String Name) {
-    this.name = name;
+    this.Name = Name;
     }
 
     public SignInSheet(int Time) {
