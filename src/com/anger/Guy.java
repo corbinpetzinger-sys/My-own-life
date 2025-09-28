@@ -16,7 +16,7 @@ public Guy(int Age, String Job, int Time,  String Name){
 }
 public void Info(){
 
-    System.out.println("Welcome to the attendence " + Name +" we are happpy you have come to our doors at " + Time + "you are very cool for being a " + Job + "at " + Name);
+    System.out.println("Welcome to the attendence " + Name +" we are happpy you have come to our doors at " + Time + "you are very cool for being a " + Job + "at " + Age);
 }
 
 }
